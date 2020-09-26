@@ -7,7 +7,7 @@ end
 def name
   @name
 end
-end
+
 
 @@count = 0
 
