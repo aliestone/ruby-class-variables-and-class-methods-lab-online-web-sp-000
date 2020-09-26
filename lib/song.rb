@@ -10,7 +10,7 @@ end
 @@artists = @artist
 @@genres = @genres
 @@count = @count
-@@count += 1
+
 
 def count(number)
   song.count
