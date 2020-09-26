@@ -12,6 +12,6 @@ def count(number)
   song.count
 end
 
-@@count = 0
+
 
 end
