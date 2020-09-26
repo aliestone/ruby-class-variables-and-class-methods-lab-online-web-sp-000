@@ -3,14 +3,9 @@ class Song
 def initialize(name, artist, genre)
 end
 
-def name(name)
-  name = name
+def count(number)
+  song.count
 end
-
-def name
-  @name
-end
-
 
 @@count = 0
 
