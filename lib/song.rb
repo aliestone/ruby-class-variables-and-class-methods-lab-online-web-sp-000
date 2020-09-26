@@ -1,6 +1,10 @@
 class Song
 
-def name=(name)
+def new(name, artist, genre)
+end
+
+
+def name(name)
   name = name
 end
 
